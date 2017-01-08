@@ -2,7 +2,6 @@
 LuaJIT FFI bindings for OpenVR
 
 ## License
-
 The MIT License
 
 Copyright (c) 2017 Planimeter. http://planimeter.org
